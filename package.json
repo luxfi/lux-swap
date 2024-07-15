@@ -1,7 +1,6 @@
 {
   "name": "@luxfi/lux-swap",
   "version": "0.0.37",
-  "description": "",
   "main": "dist/index.js",
   "scripts": {
     "test": "jest",
@@ -44,5 +43,7 @@
   "bugs": {
     "url": "https://github.com/luxfi/lux-swap/issues"
   },
-  "homepage": "https://github.com/luxfi/lux-swap#readme"
+  "homepage": "https://github.com/luxfi/lux-swap#readme",
+  "types": "./dist/index.d.ts",
+  "description": ""
 }
