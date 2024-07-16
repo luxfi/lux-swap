@@ -1,4 +1,4 @@
-import { CHAINS } from "@debank/common";
+import { CHAINS } from "@luxfi/common";
 import { Interface } from "@ethersproject/abi";
 import { generateGetQuote, isSameAddress } from "../utils";
 import { KyberswapABI } from "../abi";

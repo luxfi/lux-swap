@@ -1,4 +1,4 @@
-import { CHAINS_ENUM } from "@debank/common";
+import { CHAINS_ENUM } from "@luxfi/common";
 import { OpenApiService } from "@luxfi/lux-api";
 import { DEX_ENUM } from "./consts";
 export interface QuoteParams {

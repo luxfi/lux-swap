@@ -1,5 +1,5 @@
 import { Interface } from "@ethersproject/abi";
-import { CHAINS_ENUM, CHAINS } from "@debank/common";
+import { CHAINS_ENUM, CHAINS } from "@luxfi/common";
 import { generateGetQuote, isSameAddress } from "../utils";
 import { OpenOceanABI } from "../abi";
 import { DEX_ENUM } from "../consts";

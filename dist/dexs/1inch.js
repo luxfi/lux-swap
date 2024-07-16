@@ -1,4 +1,4 @@
-import { CHAINS_ENUM, CHAINS } from "@debank/common";
+import { CHAINS_ENUM, CHAINS } from "@luxfi/common";
 import { Interface } from "@ethersproject/abi";
 import { generateGetQuote, isSameAddress } from "../utils";
 import { OneInchABI } from "../abi";
