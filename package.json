@@ -1,6 +1,6 @@
 {
   "name": "@luxfi/lux-swap",
-  "version": "0.0.38",
+  "version": "0.0.39",
   "main": "dist/index.js",
   "scripts": {
     "test": "jest",
@@ -20,7 +20,7 @@
     "web3-eth-abi": "^1.8.1"
   },
   "devDependencies": {
-    "@luxfi/common": "^0.3.21",
+    "@luxfi/common": "^0.3.61",
     "@babel/preset-env": "^7.19.1",
     "@luxfi/lux-api": "^0.6.13",
     "@types/jest": "^29.0.3",
