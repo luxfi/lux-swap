@@ -1,6 +1,6 @@
 {
-  "name": "@luxfi/lux-swap",
-  "version": "0.0.39",
+  "name": "@luxwallet/lux-swap",
+  "version": "1.8.11",
   "main": "dist/index.js",
   "scripts": {
     "test": "jest",
