@@ -7,7 +7,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
-import { CHAINS, CHAINS_ENUM } from "@luxfi/common";
+import { CHAINS, CHAINS_ENUM } from "@luxwallet/common";
 import { DEX_ENUM } from "./consts";
 import { DEX_SPENDER_WHITELIST } from "./list";
 export const isSameAddress = (addr1, addr2) => {

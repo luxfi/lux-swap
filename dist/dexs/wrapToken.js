@@ -8,7 +8,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
     });
 };
 import abiCoder from "web3-eth-abi";
-import { CHAINS_ENUM, CHAINS } from "@luxfi/common";
+import { CHAINS_ENUM, CHAINS } from "@luxwallet/common";
 import { WrapTokenAddressMap } from "../list";
 import { isSameAddress } from "../utils";
 export const SUPPORT_CHAINS = [

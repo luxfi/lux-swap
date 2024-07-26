@@ -1,4 +1,4 @@
-import { CHAINS } from "@luxfi/common";
+import { CHAINS } from "@luxwallet/common";
 import { Interface } from "@ethersproject/abi";
 import { generateGetQuote } from "../utils";
 import { UniswapABI } from "../abi";

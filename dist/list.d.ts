@@ -1,4 +1,4 @@
-import { CHAINS_ENUM } from "@luxfi/common";
+import { CHAINS_ENUM } from "@luxwallet/common";
 export declare const WrapTokenAddressMap: {
     ETH: string;
     BSC: string;

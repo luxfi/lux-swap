@@ -1,4 +1,4 @@
-import { CHAINS_ENUM } from "@luxfi/common";
+import { CHAINS_ENUM } from "@luxwallet/common";
 import { SUPPORT_CHAINS as wrapTokenSupportChains } from "./dexs/wrapToken";
 import { SUPPORT_CHAINS as zeroXSupportChains } from "./dexs/0xapi";
 import { SUPPORT_CHAINS as oneInchSupportChains } from "./dexs/1inch";

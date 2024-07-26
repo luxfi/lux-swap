@@ -1,5 +1,5 @@
-import { CHAINS_ENUM } from "@luxfi/common";
-import { OpenApiService } from "@luxfi/lux-api";
+import { CHAINS_ENUM } from "@luxwallet/common";
+import { OpenApiService } from "@luxwallet/lux-api";
 import { DEX_ENUM } from "./consts";
 export interface QuoteParams {
     fromToken: string;
